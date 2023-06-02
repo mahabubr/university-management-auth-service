@@ -4,10 +4,10 @@ import usersRouter from './app/modules/users/users.route'
 
 const app: Application = express()
 
-//CORS
+//Cors
 app.use(cors())
 
-// PARSER
+// Parser
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
