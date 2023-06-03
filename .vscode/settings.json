@@ -1,12 +1,9 @@
 {
-    "cSpell.words": [
-        "errorlogger"
-    ],
-    
-      "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
-        "source.fixAll.tslint": true,
-        "source.organizeImports": true
-      }
-    
+  "cSpell.words": ["errorlogger"],
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.organizeImports": true
+  }
 }
