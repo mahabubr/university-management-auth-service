@@ -262,3 +262,15 @@
   label: 'UM',
   timestamp: '2023-06-06T21:08:28.315Z'
 }
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T21:16:18.729Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-06T21:16:18.750Z'
+}
