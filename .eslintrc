@@ -16,7 +16,13 @@
     "no-unused-expressions": "error",
     "no-undef": "error",
     "no-console": "warn",
-    "@typescript-eslint/consistent-type-definitions": ["error", "type"]
+    "@typescript-eslint/consistent-type-definitions": ["error", "type"],
+    "@typescript-eslint/ban-types": ["error", {
+      "extendDefaults": true,
+      "types": {
+        "object": true
+      }
+    }]
   },
   "env": {
     "browser": true,

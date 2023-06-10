@@ -52,3 +52,9 @@
   label: 'UM',
   timestamp: '2023-06-08T20:35:07.873Z'
 }
+{
+  statusCode: 400,
+  level: 'error',
+  label: 'UM',
+  timestamp: '2023-06-08T20:37:40.677Z'
+}
