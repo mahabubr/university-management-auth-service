@@ -1,15 +1,15 @@
-import { NextFunction, Request, Response } from 'express';
+import { Request, Response } from 'express';
 import httpStatus from 'http-status';
-import catchAsync from '../../../shared/catchAsync';
-import sendResponse from '../../../shared/sendResponse';
-import { AcademicSemesterServices } from './academicSemester.services';
-import { IAcademicSemester } from './academicSemester.interface';
-import pick from '../../../shared/pick';
 import { paginationFields } from '../../../constants/pagination';
+import catchAsync from '../../../shared/catchAsync';
+import pick from '../../../shared/pick';
+import sendResponse from '../../../shared/sendResponse';
 import { academicSemesterFilterableFields } from './academicSemester.constant';
+import { IAcademicSemester } from './academicSemester.interface';
+import { AcademicSemesterServices } from './academicSemester.services';
 
 const createAcademicSemester = catchAsync(
-  async (req: Request, res: Response, next: NextFunction) => {
+  async (req: Request, res: Response) => {
     const { ...academicSemesterData } = req.body;
     const result = await AcademicSemesterServices.createAcademicSemester(
       academicSemesterData
@@ -21,52 +21,71 @@ const createAcademicSemester = catchAsync(
       message: 'Academic semester created successfully',
       data: result,
     });
-
-    next();
   }
 );
 
-const getAllSemesters = catchAsync(
-  async (req: Request, res: Response, next: NextFunction) => {
-    const filters = pick(req.query, academicSemesterFilterableFields);
-    const paginationOptions = pick(req.query, paginationFields);
+const getAllSemesters = catchAsync(async (req: Request, res: Response) => {
+  const filters = pick(req.query, academicSemesterFilterableFields);
+  const paginationOptions = pick(req.query, paginationFields);
 
-    const result = await AcademicSemesterServices.getAllSemesters(
-      filters,
-      paginationOptions
-    );
+  const result = await AcademicSemesterServices.getAllSemesters(
+    filters,
+    paginationOptions
+  );
 
-    sendResponse<IAcademicSemester[]>(res, {
-      statusCode: httpStatus.OK,
-      success: true,
-      message: 'Semester retrieved success',
-      meta: result.meta,
-      data: result.data,
-    });
+  sendResponse<IAcademicSemester[]>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Semester retrieved success',
+    meta: result.meta,
+    data: result.data,
+  });
+});
 
-    next();
-  }
-);
+const getSingleSemester = catchAsync(async (req: Request, res: Response) => {
+  const id = req.params.id;
 
-const getSingleSemester = catchAsync(
-  async (req: Request, res: Response, next: NextFunction) => {
-    const id = req.params.id;
+  const result = await AcademicSemesterServices.getSingleSemester(id);
 
-    const result = await AcademicSemesterServices.getSingleSemester(id);
+  sendResponse<IAcademicSemester>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Semester retrieved success',
+    data: result,
+  });
+});
 
-    sendResponse<IAcademicSemester>(res, {
-      statusCode: httpStatus.OK,
-      success: true,
-      message: 'Semester retrieved success',
-      data: result,
-    });
+const updateSemester = catchAsync(async (req: Request, res: Response) => {
+  const id = req.params.id;
+  const updatedData = req.body;
 
-    next();
-  }
-);
+  const result = await AcademicSemesterServices.updateSemester(id, updatedData);
+
+  sendResponse<IAcademicSemester>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Semester updated success',
+    data: result,
+  });
+});
+
+const deleteSemester = catchAsync(async (req: Request, res: Response) => {
+  const id = req.params.id;
+
+  const result = await AcademicSemesterServices.deleteSemester(id);
+
+  sendResponse<IAcademicSemester>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Semester deleted success',
+    data: result,
+  });
+});
 
 export const AcademicSemesterController = {
   createAcademicSemester,
   getAllSemesters,
   getSingleSemester,
+  updateSemester,
+  deleteSemester,
 };

@@ -19,7 +19,12 @@ const academicSemesterSchema = new Schema<IAcademicSemester>(
     startMonth: { type: String, require: true, enum: academicSemesterMonths },
     endMonth: { type: String, require: true, enum: academicSemesterMonths },
   },
-  { timestamps: true }
+  {
+    timestamps: true,
+    toJSON: {
+      virtuals: true,
+    },
+  }
 );
 
 // PRE HOOK
