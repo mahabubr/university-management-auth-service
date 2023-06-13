@@ -1,8 +1,5 @@
 {
-  "cSpell.words": [
-    "errorlogger",
-    "virtuals"
-  ],
+  "cSpell.words": ["errorlogger", "virtuals"],
 
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
