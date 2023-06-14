@@ -1,8 +1,9 @@
 import cors from 'cors';
 import express, { Application, NextFunction, Request, Response } from 'express';
-import globalErrorHandler from './app/middleware/globalErrorHandler';
-import routes from './app/routes';
 import httpStatus from 'http-status';
+import globalErrorHandler from './app/middleware/globalErrorHandler';
+// import { generateFacultyId } from './app/modules/user/user.utils';
+import routes from './app/routes';
 
 const app: Application = express();
 
@@ -38,5 +39,11 @@ app.use((req: Request, res: Response, next: NextFunction) => {
   });
   next();
 });
+
+// async function test() {
+//   const testId = await generateFacultyId();
+//   console.log(testId);
+// }
+// test();
 
 export default app;

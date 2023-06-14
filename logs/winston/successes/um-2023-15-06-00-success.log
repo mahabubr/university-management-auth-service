@@ -1,0 +1,1236 @@
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:09:37.480Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:09:37.494Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:09.444Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:09.465Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:12.489Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:12.504Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:18.104Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:18.111Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:30.548Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:30.555Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:39.410Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:39.426Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:41.030Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:41.043Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:46.362Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:46.370Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:48.079Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:48.096Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:51.782Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:10:51.791Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:11:00.998Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:11:01.022Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:12:03.626Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:12:03.637Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:12:05.190Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:12:05.211Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:12:36.820Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:12:36.828Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:12:38.424Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:12:38.436Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:12:55.095Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:12:55.102Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:13:03.931Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:13:03.945Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:13:11.575Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:13:11.582Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:13:15.092Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:13:15.100Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:13:17.742Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:13:17.758Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:14:58.632Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:14:58.640Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:15:09.718Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:15:09.732Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:15:41.758Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:15:41.778Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:15:50.113Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:15:50.144Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:16:25.122Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:16:25.138Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:16:29.827Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:16:29.845Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:16:35.366Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:16:35.381Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:16:40.029Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:16:40.046Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:16:50.860Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:16:50.867Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:17:20.135Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:17:20.144Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:17:23.775Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:17:23.800Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:18:17.370Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:18:17.378Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:18:23.213Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:18:23.221Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:18:56.091Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:18:56.098Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:18:57.891Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:18:57.905Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:19:09.259Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:19:09.266Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:19:31.796Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:19:31.817Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:19:52.480Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:19:52.497Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:20:03.202Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:20:03.222Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:20:18.714Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:20:18.728Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:20:31.229Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:20:31.236Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:20:35.801Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:20:35.823Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:20:41.419Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:20:41.426Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:21:12.708Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:21:12.715Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:22:31.437Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:22:31.457Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:22:38.595Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:22:38.603Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:22:40.542Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:22:40.562Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:22:41.964Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:22:41.971Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:25:29.511Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:25:29.520Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:25:31.195Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:25:31.210Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:26:37.148Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:26:37.164Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:26:50.432Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:26:50.440Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:26:52.805Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:26:52.813Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:17.499Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:17.518Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:29.362Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:29.370Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:34.102Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:34.114Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:50.460Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:50.469Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:51.733Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:51.741Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:55.157Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:27:55.164Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:28:12.674Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:28:12.682Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:28:15.308Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:28:15.315Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:28:24.338Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:28:24.352Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:29:06.349Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:29:06.368Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:29:09.799Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:29:09.808Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:29:11.695Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:29:11.715Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:29:30.063Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:29:30.070Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:30:11.753Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:30:11.772Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:30:15.579Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:30:15.595Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:30:33.199Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:30:33.206Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:32:45.784Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:32:45.797Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:32:51.815Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:32:51.823Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:33:14.504Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:33:14.520Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:34:08.820Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:34:08.842Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:34:12.864Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:34:12.872Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:42:09.837Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:42:09.858Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:42:21.883Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:42:21.901Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:42:53.765Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:42:53.773Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:44:56.309Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:44:56.325Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:45:12.719Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:45:12.726Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:45:30.707Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:45:30.715Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:45:33.571Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:45:33.594Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:47:06.769Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:47:06.789Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:47:21.340Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:47:21.354Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:47:31.713Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:47:31.721Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:47:42.851Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:47:42.869Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:49:24.294Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:49:24.305Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:50:08.254Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:50:08.261Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:50:09.631Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:50:09.639Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:50:12.303Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:50:12.310Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:50:40.402Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:50:40.419Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:51:01.303Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:51:01.310Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:51:16.318Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:51:16.325Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:51:55.374Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:51:55.388Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:02.137Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:02.144Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:04.684Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:04.703Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:15.524Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:15.531Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:16.929Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:16.936Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:50.063Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:50.081Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:57.368Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:52:57.387Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:53:11.200Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:53:11.208Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:53:13.205Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:53:13.217Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:53:26.930Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:53:26.944Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:53:45.360Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-06-14T18:53:45.368Z'
+}
