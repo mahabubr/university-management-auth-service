@@ -16,6 +16,7 @@ import {
   generateFacultyId,
   generateStudentId,
 } from './user.utils';
+import { IAcademicSemester } from '../academicSemester/academicSemester.interface';
 
 const createStudent = async (
   student: IStudent,
@@ -42,7 +43,7 @@ const createStudent = async (
   try {
     session.startTransaction();
 
-    const id = await generateStudentId(academicSemester);
+    const id = await generateStudentId(academicSemester as IAcademicSemester);
 
     user.id = id;
     student.id = id;
