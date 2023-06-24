@@ -4,6 +4,7 @@ import httpStatus from 'http-status';
 import globalErrorHandler from './app/middleware/globalErrorHandler';
 // import { generateFacultyId } from './app/modules/user/user.utils';
 import routes from './app/routes';
+import cookieParser from 'cookie-parser';
 
 const app: Application = express();
 
@@ -12,6 +13,7 @@ app.use(cors());
 
 // Parser
 app.use(express.json());
+app.use(cookieParser());
 app.use(express.urlencoded({ extended: true }));
 
 // Application Routes

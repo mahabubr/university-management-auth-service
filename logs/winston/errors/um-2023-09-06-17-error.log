@@ -1,2 +1,0 @@
-{ level: 'error', label: 'UM', timestamp: '2023-06-09T11:35:20.447Z' }
-Fri Jun 09 2023:17:37:17 - [UM] error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
