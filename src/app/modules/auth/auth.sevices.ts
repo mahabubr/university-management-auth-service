@@ -1,10 +1,17 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import httpStatus from 'http-status';
 import ApiError from '../../../errors/ApiError';
 import { User } from '../user/user.model';
-import { ILoginUser, ILoginUserResponse } from './auth.interface';
+import {
+  ILoginUser,
+  ILoginUserResponse,
+  IRefreshTokenResponse,
+} from './auth.interface';
 import { Secret } from 'jsonwebtoken';
 import config from '../../../config';
 import { JWTHelpers } from '../../../helpers/jwtHelper';
+import jwt from 'jsonwebtoken';
 
 const loginUser = async (payload: ILoginUser): Promise<ILoginUserResponse> => {
   // const user = new User();
@@ -54,6 +61,42 @@ const loginUser = async (payload: ILoginUser): Promise<ILoginUserResponse> => {
   };
 };
 
+const refreshToken = async (token: string): Promise<IRefreshTokenResponse> => {
+  // verify token
+
+  let verifyToken = null;
+
+  try {
+    verifyToken = JWTHelpers.verifyToken(
+      token,
+      config.jwt.refresh_secret as Secret
+    );
+  } catch (error) {
+    throw new ApiError(httpStatus.FORBIDDEN, 'Invalid refresh token');
+  }
+
+  const { userId } = verifyToken;
+
+  // checking deleted user refresh token
+
+  const isUserExist = await User.isUserExist(userId);
+  if (!isUserExist) {
+    throw new ApiError(httpStatus.NOT_FOUND, 'User does not exist');
+  }
+
+  // generate new token
+  const newAccessToken = JWTHelpers.createToken(
+    { id: isUserExist.id, role: isUserExist.role },
+    config.jwt.secret as Secret,
+    config.jwt.expires_in as string
+  );
+
+  return {
+    accessToken: newAccessToken,
+  };
+};
+
 export const AuthServices = {
   loginUser,
+  refreshToken,
 };
