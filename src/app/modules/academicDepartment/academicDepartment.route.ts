@@ -1,4 +1,6 @@
 import express from 'express';
+import { ENUM_ROLE } from '../../../enums/user';
+import auth from '../../middleware/auth';
 import validateRequest from '../../middleware/validateRequest';
 import { AcademicDepartmentController } from './academicDepartment.controller';
 import { AcademicDepartmentValidation } from './academicDepartment.validation';
@@ -10,6 +12,7 @@ router.post(
   validateRequest(
     AcademicDepartmentValidation.createAcademicDepartmentZodSchema
   ),
+  auth(ENUM_ROLE.SUPER_ADMIN, ENUM_ROLE.ADMIN),
   AcademicDepartmentController.createDepartment
 );
 
@@ -20,10 +23,12 @@ router.patch(
   validateRequest(
     AcademicDepartmentValidation.updateAcademicDepartmentZodSchema
   ),
+  auth(ENUM_ROLE.SUPER_ADMIN, ENUM_ROLE.ADMIN),
   AcademicDepartmentController.updateDepartment
 );
 
-router.delete('/:id', AcademicDepartmentController.deleteDepartment);
+router.delete('/:id',  auth(ENUM_ROLE.SUPER_ADMIN),
+AcademicDepartmentController.deleteDepartment);
 
 router.get('/', AcademicDepartmentController.getAllDepartments);
 

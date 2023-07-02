@@ -1,0 +1,66 @@
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-07-02T19:47:48.890Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-07-02T19:47:48.911Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-07-02T19:50:40.053Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-07-02T19:54:06.071Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-07-02T19:54:06.095Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-07-02T19:54:31.488Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-07-02T19:54:46.556Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-07-02T19:54:46.578Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-07-02T19:56:35.160Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-07-02T19:56:58.925Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5000',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-07-02T19:56:58.953Z'
+}
