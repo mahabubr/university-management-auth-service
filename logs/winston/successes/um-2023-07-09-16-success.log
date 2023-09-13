@@ -1,0 +1,12 @@
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-07T10:32:28.969Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 5001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-07T10:32:28.975Z'
+}
