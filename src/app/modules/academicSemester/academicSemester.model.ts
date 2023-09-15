@@ -1,4 +1,6 @@
+import httpStatus from 'http-status';
 import { Schema, model } from 'mongoose';
+import ApiError from '../../../errors/ApiError';
 import {
   academicSemesterCodes,
   academicSemesterMonths,
@@ -8,16 +10,15 @@ import {
   AcademicSemesterModel,
   IAcademicSemester,
 } from './academicSemester.interface';
-import ApiError from '../../../errors/ApiError';
-import httpStatus from 'http-status';
 
 const academicSemesterSchema = new Schema<IAcademicSemester>(
   {
     title: { type: String, require: true, enum: academicSemesterTitles },
-    year: { type: String, require: true },
+    year: { type: Number, require: true },
     code: { type: String, require: true, enum: academicSemesterCodes },
     startMonth: { type: String, require: true, enum: academicSemesterMonths },
     endMonth: { type: String, require: true, enum: academicSemesterMonths },
+    syncId: { type: String, require: true },
   },
   {
     timestamps: true,
