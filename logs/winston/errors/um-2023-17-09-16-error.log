@@ -1,0 +1,6 @@
+Sun Sep 17 2023:16:7:8 - [UM] error: AggregateError
+Sun Sep 17 2023:16:26:1 - [UM] error: EVENT_ACADEMIC_SEMESTER_DELETED is not defined
+Sun Sep 17 2023:16:26:7 - [UM] error: EVENT_ACADEMIC_SEMESTER_DELETED is not defined
+Sun Sep 17 2023:16:26:20 - [UM] error: EVENT_ACADEMIC_SEMESTER_DELETED is not defined
+Sun Sep 17 2023:16:44:26 - [UM] error: initAcademicDepartmentEvents is not defined
+Sun Sep 17 2023:16:44:28 - [UM] error: initAcademicFacultyEvents is not defined
