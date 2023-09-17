@@ -1,9 +1,9 @@
 import express from 'express';
-import { AcademicFacultyController } from './academicFaculty.controller';
-import { AcademicFacultyValidation } from './academicFaculty.validation';
-import validateRequest from '../../middleware/validateRequest';
 import { ENUM_ROLE } from '../../../enums/user';
 import auth from '../../middleware/auth';
+import validateRequest from '../../middleware/validateRequest';
+import { AcademicFacultyController } from './academicFaculty.controller';
+import { AcademicFacultyValidation } from './academicFaculty.validation';
 
 const router = express.Router();
 
@@ -35,12 +35,12 @@ router.delete(
 
 router.get(
   '/',
-  auth(
-    ENUM_ROLE.ADMIN,
-    ENUM_ROLE.FACULTY,
-    ENUM_ROLE.STUDENT,
-    ENUM_ROLE.SUPER_ADMIN
-  ),
+  // auth(
+  //   ENUM_ROLE.ADMIN,
+  //   ENUM_ROLE.FACULTY,
+  //   ENUM_ROLE.STUDENT,
+  //   ENUM_ROLE.SUPER_ADMIN
+  // ),
   AcademicFacultyController.getAllFaculties
 );
 
