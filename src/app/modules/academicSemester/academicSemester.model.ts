@@ -14,7 +14,7 @@ import {
 const academicSemesterSchema = new Schema<IAcademicSemester>(
   {
     title: { type: String, require: true, enum: academicSemesterTitles },
-    year: { type: Number, require: true },
+    year: { type: String, require: true },
     code: { type: String, require: true, enum: academicSemesterCodes },
     startMonth: { type: String, require: true, enum: academicSemesterMonths },
     endMonth: { type: String, require: true, enum: academicSemesterMonths },

@@ -113,6 +113,7 @@ const insertIntoDBFromEvent = async (
   const academicFaculty = await AcademicFaculty.findOne({
     syncId: e.academicFacultyId,
   });
+
   const payload = {
     title: e.title,
     academicFaculty: academicFaculty?._id,

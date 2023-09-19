@@ -1,0 +1,60 @@
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T10:06:49.957Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T10:06:49.964Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T10:09:43.551Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T10:09:43.562Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T10:09:55.988Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T10:09:55.996Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T10:09:58.774Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T10:09:58.781Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T10:10:11.589Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T10:10:11.599Z'
+}

@@ -1,0 +1,534 @@
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:24:03.793Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:24:03.810Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:29:46.909Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:29:46.916Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:30:03.390Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:30:03.397Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:31:08.646Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:31:08.653Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:31:20.375Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:31:20.390Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:32:37.306Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:32:37.313Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:33:01.814Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:33:01.827Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:34:12.272Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:34:12.283Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:34:17.051Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:34:17.058Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:34:23.997Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:34:24.005Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:34:48.064Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:34:48.072Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:35:08.594Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:35:08.602Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:35:11.437Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:35:11.449Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:35:44.890Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:35:44.900Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:36:16.137Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:36:16.144Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:36:23.375Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:36:23.383Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:36:27.158Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:36:30.705Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:36:30.712Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:37:07.664Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:37:07.672Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:38:11.981Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:38:11.993Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:42:36.909Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:42:36.916Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:42:53.457Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:42:53.467Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:42:56.525Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:42:56.532Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:42:59.141Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:42:59.148Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:43:01.990Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:43:01.997Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:43:03.852Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:43:03.859Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:43:12.672Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:43:12.680Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:43:22.703Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:43:22.710Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:45:38.891Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:45:38.898Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:46:23.361Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:46:23.368Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:46:32.007Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:46:32.015Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:47:30.373Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:47:30.382Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:02.341Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:02.349Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:09.436Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:09.443Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:26.264Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:26.271Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:33.332Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:33.347Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:35.359Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:35.366Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:52.555Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:51:52.562Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:13.315Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:13.322Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:21.424Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:21.432Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:27.553Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:27.563Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:29.875Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:29.882Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:38.225Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:38.232Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:50.467Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:52:50.475Z'
+}
+{
+  message: '🔥__Database Connected',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:54:41.659Z'
+}
+{
+  message: 'APPLICATION RUNNING ON PORT 3001',
+  level: 'info',
+  label: 'UM',
+  timestamp: '2023-09-19T12:54:41.666Z'
+}
