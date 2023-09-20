@@ -6,11 +6,15 @@ import { IPaginationOptions } from '../../../interfaces/pagination';
 
 import httpStatus from 'http-status';
 import ApiError from '../../../errors/ApiError';
+import { PaginationHelper } from '../../../helpers/paginationHelper';
+import { RedisClient } from '../../../shared/redis';
 import { User } from '../user/user.model';
-import { facultySearchableFields } from './faculty.constants';
+import {
+  EVENT_FACULTY_UPDATED,
+  facultySearchableFields,
+} from './faculty.constants';
 import { IFaculty, IFacultyFilters } from './faculty.interface';
 import { Faculty } from './faculty.model';
-import { PaginationHelper } from '../../../helpers/paginationHelper';
 
 const getAllFaculties = async (
   filters: IFacultyFilters,
@@ -97,7 +101,14 @@ const updateFaculty = async (
 
   const result = await Faculty.findOneAndUpdate({ id }, updatedFacultyData, {
     new: true,
-  });
+  })
+    .populate('academicFaculty')
+    .populate('academicDepartment');
+
+  if (result) {
+    await RedisClient.publish(EVENT_FACULTY_UPDATED, JSON.stringify(result));
+  }
+
   return result;
 };
 

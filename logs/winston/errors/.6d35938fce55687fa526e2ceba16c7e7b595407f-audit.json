@@ -114,6 +114,16 @@
             "date": 1695140740861,
             "name": "C:\\development-projects\\level-two\\university-management-auth-service\\logs\\winston\\errors\\um-2023-19-09-22-error.log",
             "hash": "264cae5584fb94598005579acae3ac0f93e7754af01d0edb06dbfdeaeaa9ede3"
+        },
+        {
+            "date": 1695199408645,
+            "name": "C:\\development-projects\\level-two\\university-management-auth-service\\logs\\winston\\errors\\um-2023-20-09-14-error.log",
+            "hash": "f3a4ef3d865bdb9d0d4f6c97f6fcc8003dffed61bc981c49818499c67e534320"
+        },
+        {
+            "date": 1695200864333,
+            "name": "C:\\development-projects\\level-two\\university-management-auth-service\\logs\\winston\\errors\\um-2023-20-09-15-error.log",
+            "hash": "009f320e76f97cb485d861718bd6d06bc3ed9807eb7b8be98aa0d4cc021e2f4d"
         }
     ],
     "hashType": "sha256"
